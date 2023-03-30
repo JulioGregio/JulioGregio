@@ -23,6 +23,7 @@ Atualmente Servidor Público, porém buscando uma mudança de carreira para a á
 <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
 </div>
 
+#
 
 ### Você também pode me encontrar em:
 <a href="https://www.linkedin.com/in/julio-gregio/">
