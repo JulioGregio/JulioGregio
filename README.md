@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá eu sou o Júlio :)
 
-<!--
-**JulioGregio/JulioGregio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyber Security Analyst - In progress**
 
-Here are some ideas to get you started:
+Atualmente Servidor Público, porém buscando uma mudança de carreira para a área de Cyber Security buscando novos desafios e um novo ciclo de aprendizado, tendo como objetivo realização pessoal e profissional, acredito que com essa mudança eu possa econtrar o objeto da minha busca.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de Defesa Cibernética - Estácio
+- Estudante de Pentest - Solyd Offensive Security
+- Atualmente aprendendo:
+
+<div display="inline">
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+</div>
+
+
+### Você também pode me encontrar em:
+<a href="https://www.linkedin.com/in/julio-gregio/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
