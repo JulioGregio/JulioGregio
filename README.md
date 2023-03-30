@@ -2,7 +2,7 @@
 
 **Cyber Security Analyst - In progress**
 
-Atualmente Servidor Público, porém buscando uma mudança de carreira para a área de Cyber Security buscando novos desafios e um novo ciclo de aprendizado, tendo como objetivo realização pessoal e profissional, acredito que com essa mudança eu possa econtrar o objeto da minha busca.
+Atualmente Servidor Público, porém buscando uma mudança de carreira para a área de Cyber Security almejando novos desafios e um novo ciclo de aprendizado, tendo como objetivo realização pessoal e profissional, acredito que com essa mudança eu possa econtrar o objeto da minha busca.
 
 - Estudante de Defesa Cibernética - Estácio
 - Estudante de Pentest - Solyd Offensive Security
