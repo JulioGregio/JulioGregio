@@ -29,3 +29,5 @@ Atualmente Servidor Público, porém buscando uma mudança de carreira para a á
 <a href="https://www.linkedin.com/in/julio-gregio/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
