@@ -23,6 +23,8 @@ Atualmente Servidor Público, porém buscando uma mudança de carreira para a á
 &nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />&nbsp;
 &nbsp;<img width="50" heigth="50" src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" />&nbsp;
 &nbsp;<img width="50" heigth="50" src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" />&nbsp;
+&nbsp;<img width="50" heigth="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" />&nbsp;
+&nbsp;<img width="50" heigth="50" src="https://seeklogo.com/images/P/pfsense-logo-7FD585971F-seeklogo.com.png" />&nbsp;
 </div>
 
 #
