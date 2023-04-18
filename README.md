@@ -21,7 +21,6 @@ Atualmente Servidor Público, porém buscando uma mudança de carreira para a á
 &nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />&nbsp;
 &nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />&nbsp;
 &nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-&nbsp;<img width="50" heigth="50" src="https://assets.stickpng.com/thumbs/586e6b2cc2d41da57a33ca0d.png" />
 </div>
 
 #
